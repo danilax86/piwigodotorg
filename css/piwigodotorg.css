@@ -2496,8 +2496,9 @@ and (max-device-width : 480px) {
 
 .pwg-testimonies-advice {
     font-size: 15px;
-    padding: 30px;
+    padding: 50px;
     margin:20px 10px;
+    position:relative;
 }
 
 .pwg-testimonies-grey {
@@ -2547,6 +2548,24 @@ and (max-device-width : 480px) {
     font-size: 12px;
     text-align: center;
 }
+
+.pwg-testimonies-top-quote{
+    /* opacity:50%; */
+    width: 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 20px;
+    top:20px;
+}
+
+.pwg-testimonies-bottom-quote{
+    /* opacity:50%; */
+    width: 30px;
+    position: absolute;
+    right: 20px;
+    bottom:20px;
+}
+
 /*
 .padding-right-column-left {
     padding-right: 30px;

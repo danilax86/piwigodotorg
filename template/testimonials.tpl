@@ -21,6 +21,7 @@
 
          <div class="card pwg-testimonies-advice {$testimonials_content.user.type}">
            <div class="card-body">
+             <img class="pwg-testimonies-top-quote" src="{$PORG_ROOT_URL}images/testimonies/"/>
              <div class="">
                <p>{$testimonials_content.content}</p>
                <div class=" pwg-testimonies-user">
@@ -30,6 +31,7 @@
                  </div>
                </div>
              </div>
+             <img class="pwg-testimonies-bottom-quote" src="{$PORG_ROOT_URL}images/testimonies/quotes.svg"/>
            </div>
          </div>
          {/foreach}
