@@ -26,8 +26,18 @@
                <p>{$testimonials_content.content}</p>
                <div class=" pwg-testimonies-user">
                  <div class="pwg-testimonies-name">
-                   <p><span class="bold">{$testimonials_content.user.username}</span><br>{if isset($testimonials_content.user.organisation)}{$testimonials_content.user.organisation}{else}{$testimonials_content.user.type}{/if}</p>
-                   <p>{$testimonials_content.user.country}, {$testimonials_content.added_on}</p>
+                   <div class="pwg-testimonies-picture">
+                    {if $testimonials_content.user.picture != null}<img src="{$PORG_ROOT_URL}{$testimonials_content.user.picture}"/>{/if}
+                   </div>
+                   <div >
+                    <p>
+                        {if $testimonials_content.user.url != null}<a  href="{$testimonials_content.user.url}" target="blank"><span class="bold">{$testimonials_content.user.username}</span></a>
+                        {else}<span class="bold">{$testimonials_content.user.username}</span>{/if}
+                        <br>
+                        {if isset($testimonials_content.user.organisation)}{$testimonials_content.user.organisation}{else}{$testimonials_content.user.type}{/if}
+                        </p>
+                    <p>{$testimonials_content.user.country}, {$testimonials_content.added_on}</p>
+                   </div>
                  </div>
                </div>
              </div>

@@ -2501,6 +2501,20 @@ and (max-device-width : 480px) {
     position:relative;
 }
 
+.Organisation a{
+    color:#FF7700;
+    text-decoration:underline;
+}
+.Individual a{
+    color:#338AC5;
+    text-decoration:underline;
+}
+.Professional a{
+    color:#7E72C0;
+    text-decoration:underline;
+}
+
+
 .pwg-testimonies-grey {
     background-color: #54616F;
 }
@@ -2519,7 +2533,8 @@ and (max-device-width : 480px) {
 }
 
 .pwg-testimonies-picture img {
-    width: 100%;
+    width: 20%;
+    max-width:100px;
     height: auto;
 }
 
@@ -2583,8 +2598,9 @@ and (max-device-width : 480px) {
     .pwg-testimonies-name p {
        padding-top: 5px;
     }
-    .pwg-testimonies-name p > span {
-        font-size: 12px;
+    .pwg-testimonies-name p > span,
+    .pwg-testimonies-name p > a > span {
+        font-size: 15px;
     }
     .pwg-testimonies-date p {
         font-size: 12px;

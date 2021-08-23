@@ -45,8 +45,7 @@ J\'ai découvert Piwigo il y a déjà pas mal d\'années pour une utilisation pe
     'user' => array(
       'username' => 'Thomas Sweeney',
       'country' => ' Maryland, USA',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-16.svg',
+      'type' => 'Individual'
     ),
     'content' => '
 I\'ve been using Piwigo for almost 4 years.  After gathering our families photos, and figuring out there was not an easy way to sort them on just one computer, I knew there had to be an easier solution.   We could have spent 10$/mo on some online storage to sort them (google photos), but with our videos, I would blow right through that. 
@@ -98,7 +97,6 @@ I feel more limited by my time and energy than by the software. Keep up the good
       'username' => 'Richard Histon',
       'country' => 'United Kingdom',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-9-.svg',
       'url' => 'https://www.richardhiston.com/photographs/',
     ),
     'content' => '
@@ -169,7 +167,6 @@ If you want to run a rock stable gallery system I would highly recommend Piwigo.
       'username' => 'Michel Dehaye',
       'country' => 'France',
       'type' => 'Professional',
-      'picture' => 'images/testimonies/kite.png',
       'url' => 'http://avuedoiseau.com',
     ),
     'content' => '
@@ -187,8 +184,7 @@ Le produit propose une personnalisation intéressante grace aux plug-ins disponi
     'user' => array(
       'username' => 'Merlin',
       'country' => 'France',
-      'type' => 'Organisation',
-      'picture' => 'images/testimonies/Man-1.svg',
+      'type' => 'Organisation'
     ),
     'content' => '
 Avec Piwigo je gère et mets à dispositions des membres de notre association et de leurs familles l\'ensemble des archives photos sur 20 ans. Cela représente à ce jour 13,332 photos sur 115 albums et 129,000 pages vues.
@@ -203,8 +199,7 @@ Une fois paramètré et le bon thème trouvé la gestion est d\'une extrème sim
     'user' => array(
       'username' => 'Ştefan-Liviu Ene',
       'country' => 'Romania',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-14.svg',
+      'type' => 'Individual'
     ),
     'content' => '
 I discovered Piwigo 3 years ago and, since the beginning, it was a pleasant surprise. I am using it for my private photos database on a Synology NAS, around 340 GB and 70.000 pics.
@@ -222,7 +217,6 @@ Piwigo doesn\'t have a rival! Thank you, Piwigo Team!
       'username' => 'Michel Braito',
       'country' => 'Suisse',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/swiss-army-knife.png',
       'url' => 'http://www.genevois.org/piwigo'
     ),
     'content' => '
@@ -239,7 +233,6 @@ J\'ai trouvé Piwigo, c\'est génial, ça a une présentation quasi-pro. Et enco
       'username' => 'Christian Choveau',
       'country' => 'France',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/chochris.jpg',
       'url' => 'https://chochris-images.fr',
     ),
     'content' => '
@@ -258,7 +251,6 @@ Satisfaction garantie, n\'hésitez pas à nous rejoindre !
       'username' => 'Bernard Gacongne',
       'country' => 'France',
       'type' => 'Organisation',
-      'picture' => 'images/testimonies/sprout.png',
     ),
     'content' => '
 Petite équipe de botanistes, nous partageons nos photos pour identifier les plantes de notre inventaire local. Autrefois je gérais ces images (quelques milliers) avec Google qui a eu la bonne idée de perdre mon identifiant et du même coup 4 ans de travail sans recours ni assistance compétente. Maintenant avec Piwigo installé sur mon site je maîtrise toute la chaîne et sa sécurité.
@@ -272,7 +264,6 @@ Petite équipe de botanistes, nous partageons nos photos pour identifier les pla
       'username' => 'Kurt Schneider',
       'country' => 'Suisse',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/mountain.png',
       'url' => 'https://www.kurt-clindoeil.com',
     ),
     'content' => '
@@ -287,7 +278,6 @@ J\'utilise Piwigo depuis 2011 pour mon site : facile à mettre en oeuvre et mêm
       'username' => 'David Kerr',
       'country' => 'Australia',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/kangaroo.png',
     ),
     'content' => '
  I was having increasing problems with Gallery3 because the support and development was effectively discontinued. I was able to move my then 15,000 photos in dozens of albums and sub-albums to Piwigo with a relatively small amount of effort and I am so pleased I did. In particular, I was able to move all the captions which did not want to retype!
@@ -303,7 +293,6 @@ J\'utilise Piwigo depuis 2011 pour mon site : facile à mettre en oeuvre et mêm
       'username' => 'Jan Eijdenberg',
       'country' => 'The Netherlands',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/eagle.png',
       'url' => 'http://www.eijdenberg.nl/',
     ),
     'content' => '
@@ -324,7 +313,6 @@ In other words a great and alive initiative.
       'username' => 'Thomas Bury',
       'country' => 'France',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/palm-tree.png',
     ),
     'content' => '
  De retour d\'un magnifique voyage en famille, il fallait trouver une façon de mettre en commun nos photos tout en facilitant la diffusion à nos amis. Étant libriste, peu désireux de partager ces photos avec les GAFAM et titulaire d\'un hébergement sur Internet, Piwigo s\'est avéré la solution parfaite ! Modulable à souhait, facile d\'utilisation...
@@ -339,8 +327,7 @@ In other words a great and alive initiative.
     'user' => array(
       'username' => 'Albert Parera',
       'country' => 'España',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-1.svg',
+      'type' => 'Individual'
     ),
     'content' => '
  Gracias a Piwigo he podido gestionar, organizar y compartir a mi antojo toda mi galería de álbumes de fotos en función de mis necesidades. Y todo ello solo con unos pocos clics. Brutal!
@@ -372,8 +359,7 @@ Piwigo, c\'est un peu le Wordpress de la photo.
     'user' => array(
       'username' => 'Johann',
       'country' => 'France',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Rocker.svg',
+      'type' => 'Individual'
     ),
     'content' => '
 Cela fait quelques années que j\'utilise Piwigo. J\'ai plein d\'amis et souvent nos rencontres ou retrouvailles sont forcément accompagnées de photos et de vidéos pour ne jamais oublier. Ce qui est facile, c\'est que je peux accorder des droits d\'accès aux albums à Pierre et Paul, mais pas spécialement à Jacques vu qu\'il ne les connait pas. Chaque visiteur avec accès peut télécharger les photos de son choix au format original.
@@ -389,7 +375,6 @@ J\'invite tous les débutants à se lancer avec Piwigo, vu qu\'il n\'est pas né
       'username' => 'William R Oliver, MD',
       'country' => 'USA',
       'type' => 'Organisation',
-      'picture' => 'images/testimonies/doctor.png',
     ),
     'content' => '
 I am writing to compliment you on your photograph organization software.  I am a pathologist, and I use this to organize photomicrographs for teaching and distribution to colleagues.  It is easy to use, easy to understand, requires minimal maintenance, and my colleague have no trouble getting what they need.  I appreciate having access to such a great product.
@@ -402,8 +387,7 @@ I am writing to compliment you on your photograph organization software.  I am a
     'user' => array(
       'username' => 'John Anderson',
       'country' => 'Canada',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/maple-leaf.png',
+      'type' => 'Individual'
     ),
     'content' => '
 I\'ve used Piwigo for my personal website on a Raspberry Pi for years. It is wonderful open source software. It allows family and friends to view our pictures and saves shipping them around by email.
@@ -418,8 +402,7 @@ Keep up the good work team!
     'user' => array(
       'username' => 'JCL Vanier',
       'country' => 'France',
-      'type' => 'Organisation',
-      'picture' => 'images/testimonies/Man-1.svg',
+      'type' => 'Organisation'
     ),
     'content' => '
 J\'utilise trois instances de Piwigo depuis plusieurs années pour une association et dans le cadre privé. Les différents thèmes et greffons proposés permettent une personnalisation que je trouve suffisante sans avoir besoin d\'aller désosser le code. De plus, jusqu\'à maintenant, aucune mise à jour n’a planté et ça c\'est appréciable ;)
@@ -434,8 +417,7 @@ Piwigo, j\'y go ! (j\'ai honte)
     'user' => array(
       'username' => 'Allen Simpson',
       'country' => 'USA',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-1.svg',
+      'type' => 'Individual'
     ),
     'content' => '
 I discovered Piwigo after my parents died and left tens of thousands of slides and negatives that tracked the lives of their ten children from birth. The setup and organization has been simple and intuitive so many local and extended family members have found connections here. Say it: Amazing. Thank you. Thank you. Thank you.
@@ -448,8 +430,7 @@ I discovered Piwigo after my parents died and left tens of thousands of slides a
     'user' => array(
       'username' => 'Peter Preneas',
       'country' => 'Australia',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-9-.svg',
+      'type' => 'Individual'
     ),
     'content' => '
 I have been using Piwigo since April 2013 for a family photo album.
@@ -466,8 +447,7 @@ I love Piwigo.
     'user' => array(
       'username' => 'Jean Sailley',
       'country' => 'France',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/writer.png',
+      'type' => 'Individual'
     ),
     'content' => '
 Depuis que j\'utilise Piwigo sur mon site, je vois la différence : un gain de temps appréciable et une facilité d\'utilisation. Je pratique la généalogie et mon site accueille presque 80 000 photos. C\'est génial !
@@ -481,7 +461,6 @@ Depuis que j\'utilise Piwigo sur mon site, je vois la différence : un gain de t
       'username' => 'Benoît Rozec',
       'country' => 'France',
       'type' => 'Organisation',
-      'picture' => 'images/testimonies/basketball-jersey.png',
       'url' => 'http://photos.planete-urb.com/phototheque/',
     ),
     'content' => '
@@ -502,8 +481,7 @@ Un grand merci à l\'équipe de Piwigo, et à tous les auteurs des plugins dans 
       'username' => 'Norbert Baudraz',
       'country' => 'Suisse',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-1.svg',
-      'url' => 'http://equiphotos.ch/PWG/',
+      'url' => 'http://equiphotos.ch/PWG/'
     ),
     'content' => '
 Tous mes remerciements à toute l\'équipe pour cette super galerie photo qu\'est Piwigo ! Je l\'utilise maintenant depuis plus de 11 ans pour gérer mon site equiphotos.ch, d\'abord avec PhpWebGallery, et maintenant Piwigo.
@@ -521,8 +499,7 @@ J\'avais quelques craintes l\'année dernière quand je me suis décidé à enfi
       'username' => 'Robin Moret',
       'country' => 'France',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-16.svg',
-      'url' => 'http://photos.daedalum.org/',
+      'url' => 'http://photos.daedalum.org/'
     ),
     'content' => '
 Piwigo fourni une base très robuste que l\'on peut soit utiliser tel quelle, soit modifiée en utilisant des thèmes et des plugins disponibles en grand nombres, soit en la modifiant soi meme.
@@ -538,8 +515,7 @@ Grâce à une extension de Lightroom, je peux directement uploader mes séries s
       'username' => 'Jean-Michel Benoit',
       'country' => 'France',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-14.svg',
-      'url' => 'http://jmbenoit.fr/',
+      'url' => 'http://jmbenoit.fr/'
     ),
     'content' => '
 Photographe aérien amateur, j\'utilise depuis de nombreuses années ce logiciel de gestion de photos. J\'ai eu l\'occasion de mettre à jour plusieurs versions et de changer d\'hébergeur avec toujours la sécurité de pouvoir compter sur une équipe réactive en cas de problème. Les différents modules proposés par les contributeurs permettent de personnaliser l\'application. Je ne peux que la conseiller.
@@ -554,8 +530,7 @@ Merci à toute l\'équipe
     'user' => array(
       'username' => 'Bernard Ceurstemont',
       'country' => 'France',
-      'type' => 'Organisation',
-      'picture' => 'images/testimonies/Man-9-.svg',
+      'type' => 'Organisation'
     ),
     'content' => '
 J\'utilise Piwigo depuis 5 ans pour animer un club photo : outre une vitrine de photos visibles sur l\'Internet, une configuration particulière permet à chacun des 20 membres d\'avoir sa propre galerie consultable par tous les autres membres. Un outil précieux pour nos exercices de lecture photos.
@@ -569,8 +544,7 @@ J\'utilise Piwigo depuis 5 ans pour animer un club photo : outre une vitrine de 
       'username' => 'Thomas Feuster',
       'country' => 'Germany',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-16.svg',
-      'url' => 'http://www.feuster.com/piwigo/',
+      'url' => 'http://www.feuster.com/piwigo/'
     ),
     'content' => '
 I\'m using Piwigo now for 2 years now to host my private collection of about 9000 photos. For me its the perfect way to show my pictures since its 1) easy to use 2) comes with a number of plugins, themes, ... to adapt to my needs 3) gives me the chance to tweak things on a low level if I feel like it 4) has an active community with great support in case of questions.
@@ -586,8 +560,7 @@ And of course its FREE to use!
       'username' => 'Jean-Daniel Gonon',
       'country' => 'France',
       'type' => 'Organisation',
-      'picture' => 'images/testimonies/Man-1.svg',
-      'url' => 'https://photos.espoir-et-vie.net/',
+      'url' => 'https://photos.espoir-et-vie.net/'
     ),
     'content' => '
 Je gère (depuis 2.5 ans) un album avec sous-albums de presque 5000 photos pour une association : c\'est au top&nbsp;!
@@ -604,8 +577,7 @@ Merci pour votre travail !
     'user' => array(
       'username' => 'Bogusław Swierczek',
       'country' => 'Poland',
-      'type' => 'Organisation',
-      'picture' => 'images/testimonies/Boss-3.svg',
+      'type' => 'Organisation'
     ),
     'content' => '
 I\'d recommend this tool for those who want to create organisations\' galleries or for individual purposes.
@@ -620,8 +592,7 @@ I found Piwigo simple and useful. I\'ve been using it for few years now. THe Piw
     'user' => array(
       'username' => 'François Peignier',
       'country' => 'France',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/writer.png',
+      'type' => 'Individual'
     ),
     'content' => '
 Mon site photo est propulsé par piwigo depuis 2002 ou 2003, quelle simplicité par rapport aux pages en HTML d\'avant ! Merci à l\'équipe de Piwigo
@@ -635,7 +606,6 @@ Mon site photo est propulsé par piwigo depuis 2002 ou 2003, quelle simplicité 
       'username' => 'Pierrot Rubira',
       'country' => 'France',
       'type' => 'Organisation',
-      'picture' => 'images/testimonies/Man-14.svg',
       'url' => 'http://p-rubira.com/galerie'
     ),
     'content' => '
@@ -651,8 +621,7 @@ Bravo et merci
     'user' => array(
       'username' => 'Boris Ringenbach',
       'country' => 'France',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-1.svg',
+      'type' => 'Individual'
     ),
     'content' => '
 Piwigo est vraiment un système de gestion de photo génial! Je l\'utilise depuis 4 ans, il est très simple à utiliser et l\'ajout de fonctionnalités par plugin est aussi simple qu\'un simple clic.
@@ -668,8 +637,7 @@ Bravo et merci à toute l\'équipe!',
     'user' => array(
       'username' => 'Albert Richard',
       'country' => 'France',
-      'type' => 'Organisation',
-      'picture' => 'images/testimonies/Man-16.svg',
+      'type' => 'Organisation'
     ),
     'content' => '
 Je suis un utilisateur basique de Piwigo que j\'utilise depuis très longtemps, depuis le début et même avant lorsqu\'à l\'époque il se nommait PhpWebGallery (NDLR soit avant 2009). Il me sert à publier mes photographies sur Internet. J\'ai 9 galeries qui comportent au total 17.209 photographies.
@@ -682,8 +650,7 @@ Je suis un utilisateur basique de Piwigo que j\'utilise depuis très longtemps, 
     'user' => array(
       'username' => 'Christophe',
       'country' => 'France',
-      'type' => 'Organisation',
-      'picture' => 'images/testimonies/Boss-3.svg',
+      'type' => 'Organisation'
     ),
     'content' => '
  Je m\'occupe d’un site de passeport vacance. Je cherchais une galerie photo sécurisé, ou seuls les parents peuvent aller voir. Au début c\'était un login commun pour tous puis après chacun le sien. Cela fait 3 ans que c\'est en place et j\'en suis ravi. J\'ai actuellement un peu de 5000 photos et plus de 100 parents enregistrés. J\'ai même quelques séquences vidéos.
@@ -696,8 +663,7 @@ Je suis un utilisateur basique de Piwigo que j\'utilise depuis très longtemps, 
     'user' => array(
       'username' => 'Alain',
       'country' => 'France',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-1.svg',
+      'type' => 'Individual'
     ),
     'content' => '
 J\'ai installé ma gallery  sur mon serveur Raspberry avec un accès depuis le net. Ca fonctionne à merveille !
@@ -712,8 +678,7 @@ J\'ai commencé il y a 12 ans avec PhpWebGallery et je suis devenu accro à Piwi
     'user' => array(
       'username' => 'Sami Onur Zaim',
       'country' => 'Turkey',
-      'type' => 'Professional',
-      'picture' => 'images/testimonies/photographer.png',
+      'type' => 'Professional'
     ),
     'content' => '
 I have been using piwigo for 1 year. The feature in piwigo took my attention is I could create categories and let specific users access to them with a password so easily. So I could offer privacy to my clients with the ease of browsing that piwigo offers.
@@ -730,8 +695,7 @@ The mobile site is fantastic. I could show a gallery to anyone without teaching 
     'user' => array(
       'username' => 'Jean-Pierre Pascaud',
       'country' => 'France',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/writer.png',
+      'type' => 'Individual'
     ),
     'content' => '
 Utilisateur de Piwigo depuis 2011, je suis en ce moment en pleine refonte de mon espace. Ce que j\'aime c\'est la possibilité de montrer ses images à qui l\'on veut,avec les droits soit sur les albums, soit sur les utilisateurs. Ça donne vraiment une grande liberté d\'action. Comme ça je peux mettre mes photos de familles et ne les montrer qu\'à ma famille.
@@ -747,8 +711,7 @@ Les plugins pour améliorer la gestion sont d\'une facilité à utiliser. Je m\'
       'username' => 'Nigel Aves',
       'country' => 'USA',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/Rocker.svg',
-      'url' => 'https://gallery.soft-focus-imagining.com/',
+      'url' => 'https://gallery.soft-focus-imagining.com/'
     ),
     'content' => '
  Just wanted to thank the development team behind the ever growing Piwigo community. Piwigo is easy to install, easy to learn and use, and most importantly gives a good user experience to visitors of your gallery site. Plus many well designed "plugins" to customize to a galleries need.
@@ -762,8 +725,7 @@ Les plugins pour améliorer la gestion sont d\'une facilité à utiliser. Je m\'
       'username' => 'Yann Aguillion',
       'country' => 'France',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/Rocker.svg',
-      'url' => 'https://www.marieetyann.org/',
+      'url' => 'https://www.marieetyann.org/'
     ),
     'content' => '
 J\'utilise Piwigo depuis maintenant 8 ans, j\'ai pu apprécier les différentes fonctionnalités ainsi que tous les plugins et également les thèmes et la personnalisation des galeries. En plus de ça j\'ai profité de l\'entraide sur le forum, toujours efficace et sympathique.
@@ -780,8 +742,7 @@ Que du bonheur ! Merci à toute l\'équipe.
     'user' => array(
       'username' => 'Colette',
       'country' => 'France',
-      'type' => 'Professional',
-      'picture' => 'images/testimonies/Woman-9.svg',
+      'type' => 'Professional'
     ),
     'content' => '
  Utilisatrice de Piwigo depuis 2013, j’avais vainement cherché avant un lieu où puissent se croiser différentes expressions. En effet, la photo est pour moi parfaitement complémentaire à l’écriture, son langage ne devrait pas être isolé ou se replier sur lui-même tant ses connexions avec la peinture et les autres arts est évidente. Malheureusement, je n’en ai pas trouvé, j’écris donc d’un côté, je mets mes photographies ailleurs. Cependant, Piwigo est pour la non-technicienne que je suis, et qui refuse surtout que la technique prenne le pas sur ce qu’on montre, est pour moi une solution très valorisante. Très simple d’utilisation, assez ergonomique, peu onéreuse, elle permet de toucher un grand nombre de gens même si un échange véritable autour de l’image ne s’opère pas vraiment.
@@ -797,8 +758,7 @@ Que du bonheur ! Merci à toute l\'équipe.
       'username' => 'Wilfried',
       'country' => 'Belgium',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/beer.png',
-      'url' => 'http://beerlabels.be/piwigo/',
+      'url' => 'http://beerlabels.be/piwigo/'
     ),
     'content' => '
  A longtime search for a suitable photo gallery brought me to Piwigo. This is the only gallery that gives a collector incredible help with the possibility of integrating an easy to use SEARCH engine into the collection of photo\'s.
@@ -812,8 +772,7 @@ Que du bonheur ! Merci à toute l\'équipe.
       'username' => 'Daniel',
       'country' => 'France',
       'type' => 'Individual',
-      'url' => 'http://lechodes3baies.fr/phototheque/',
-      'picture' => 'images/testimonies/writer.png',
+      'url' => 'http://lechodes3baies.fr/phototheque/'
     ),
     'content' => '
 Merci pour Piwigo. Je ne sais plus pourquoi je l\'ai choisi. Softaculous me proposait plusieurs logiciels. J\'en voulais un qui soit simple et, surtout, rapide.
@@ -828,8 +787,7 @@ Pas de fioriture dans Piwigo, on va à l\'essentiel, simplement et rapidement, e
     'user' => array(
       'username' => 'Kade',
       'country' => 'USA',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Woman-9.svg',
+      'type' => 'Individual'
     ),
     'content' => '
  We use Piwigo as a media sharing platform for the family, and it\'s a great alternative to messing with Facebook or Instagram. It\'s far more flexible, private, and - the not to be taken lightly - you have control and ownership of your stuff! Installation is easy, and the documentation is solid for most aspects, including plugins.
@@ -844,8 +802,7 @@ Pas de fioriture dans Piwigo, on va à l\'essentiel, simplement et rapidement, e
     'user' => array(
       'username' => 'Bill Peters',
       'country' => 'Austria',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-14.svg',
+      'type' => 'Individual'
     ),
     'content' => '
  I have been using Piwigo for about 3 years now after the demise of the Gallery3 manager. Piwigo is much more straightforward to use than Gallery and I would recommend anyone to give it a try!
@@ -858,8 +815,7 @@ Pas de fioriture dans Piwigo, on va à l\'essentiel, simplement et rapidement, e
     'user' => array(
       'username' => 'Bill Gowacki',
       'country' => 'USA',
-      'type' => 'Professional',
-      'picture' => 'images/testimonies/Man-16.svg',
+      'type' => 'Professional'
     ),
     'content' => '
 Just want to add my "props" to the folks at Piwigo for the great product they have put out for their clients. I create a Piwigo photo album for each of the websites I create and walk each client through the "how to\'s" of Piwigo, which is very user friendly. I have tried other photo albums in the past and have always come back to Piwigo not just because it\'s free, but because it is honestly... the best!
@@ -873,8 +829,7 @@ Just want to add my "props" to the folks at Piwigo for the great product they ha
       'username' => 'Martial Guisnet',
       'country' => 'France',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/miner.png',
-      'url' => 'http://bleu.skaven.free.fr',
+      'url' => 'http://bleu.skaven.free.fr'
     ),
     'content' => '
  J\'ai commencé à utiliser Piwigo en 2013 pour rendre accessibles à mes amis les photos que je prends sous terre dans des cavités anthropiques (carrières). Mon modeste site compte maintenant plus de 1300 images.
@@ -889,8 +844,7 @@ Just want to add my "props" to the folks at Piwigo for the great product they ha
     'user' => array(
       'username' => 'Arnaud',
       'country' => 'France',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-1.svg',
+      'type' => 'Individual'
     ),
     'content' => '
 I first used other open source galleries or main streams photos applications such as Picasa. I\'m based in France and mainly use Piwigo to store and maintain my photo collection for friends and family usage and sharing. My library now hosts 40,000+ photos, all organized in a date based organization (2017, 2016, 2015, ...) with sub-albums for each year event.
@@ -907,8 +861,7 @@ Piwigo is a great tool with a maximum of personalization features, from which th
       'username' => 'Katryne',
       'url' => 'http://photos.revestou.fr/',
       'country' => 'France',
-      'type' => 'Organisation',
-      'picture' => 'images/testimonies/Woman-15.svg',
+      'type' => 'Organisation'
     ),
     'content' => '
 Notre Piwigo, Images du Revest, est une initiative de 2 associations dédiées à l\'histoire, au patrimoine et à la culture. C\'est un inventaire contributif où géolocalisation, descriptif et commentaires ont autant d\'importance que l\'image. Piwigo est un CMS complet, bien au-delà d\'un simple album en ligne : c\'est grâce à son mode collaboratif que Piwigo a rendu possible notre belle exposition et la rédaction du livre associé. La gestion fine des droits permet un travail en coulisse pratique, efficace et discret.
@@ -925,8 +878,7 @@ Nous sommes des passionnés, des bénévoles, des passeurs de savoir et Piwigo e
       'username' => 'Luc Viatour',
       'url' => 'https://Lucnix.be',
       'country' => 'Belgique',
-      'type' => 'Professional',
-      'picture' => 'images/testimonies/Rocker.svg',
+      'type' => 'Professional'
     ),
     'content' => '
 Je suis photographe professionnel. Mon ancien site web était une galerie en ligne mais vieille de 10 ans et plus au normes actuelles, notamment la compatibilité avec les tablettes et smartphones. J\'ai donc commencé à rechercher une solution robuste : 3.000 albums et 150.000 photos haute résolution. Mon site est une plateforme importante, car elle me permet de faire un backup de mon travail, d\'avoir une galerie par client, chaque client ayant un historique de 10 ans et doit pouvoir s’identifier et télécharger ses anciens reportages.
@@ -944,8 +896,7 @@ Chose importante avec un logiciel libre le site et forum de la communauté est t
       'username' => 'Nominoe',
       'url' => 'https://www.pyrenees360.fr',
       'country' => 'France',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-16.svg',
+      'type' => 'Individual'
     ),
     'content' => '
 Tout d\'abord encore merci pour cet excellent logiciel.
@@ -964,7 +915,6 @@ Longue vie à Piwigo.',
       'url' => 'https://aukena.piwigo.com/',
       'country' => 'Belgium',
       'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-9-.svg',
     ),
     'content' => '
 I\'ve tried other platforms before and found myself limited by either being restricted to a single brand of computer/tablet/phone equipment, or by not being able to define myself the access rules.
@@ -983,8 +933,7 @@ I like to be in control, that\'s why I like Piwigo.
     'user' => array(
       'username' => 'Thomas Bourdon',
       'country' => 'France',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-14.svg',
+      'type' => 'Individual'
     ),
     'content' => '
 J\'auto-héberge Piwigo depuis la version 2.1, et je l\'ai refaite avec la version 2.4 car je n\'utilisais que des albums physiques alors que les virtuels sont bien plus confortables. J\'ai 30k photos, 1k albums et 500 tags, etc ce qui n\'enlève rien à la rapidité de ce super logiciel.
@@ -1002,8 +951,7 @@ Bravo à toute l\'équipe de Piwigo et aux contributeurs externes, continuez com
       'username' => 'Roland Collignon',
       'url' => 'http://photos-photographe.fr/portfolios/',
       'country' => 'France',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/photographer.png',
+      'type' => 'Individual'
     ),
     'content' => '
 J\'en profite pour vous remercier infiniment, vous et tous ceux qui oeuvrent à faire de cette galerie un outil particulièrement efficace. J\'utilise ce projet depuis ses balbutiements, ce qui me manquait fini toujours par être implémenté, bref, que du bonheur...
@@ -1016,8 +964,7 @@ J\'en profite pour vous remercier infiniment, vous et tous ceux qui oeuvrent à 
     'user' => array(
       'username' => 'Jonathan Bartleson',
       'country' => 'USA',
-      'type' => 'Individual',
-      'picture' => 'images/testimonies/Man-16.svg',
+      'type' => 'Individual'
     ),
     'content' => '
 I looked extensively at alternatives, tried multiple and been longtime user of zenfolio - so coming at this deliberately. Your product is great mix of simplicity and functionality. Security configuration options in particular are appreciated.
@@ -1035,8 +982,7 @@ Thank you for making this great product available.
       'username' => 'Eric Fabre',
       'url' => 'http://v-images.com',
       'country' => 'France',
-      'type' => 'Professional',
-      'picture' => 'images/testimonies/photographer.png',
+      'type' => 'Professional'
     ),
     'content' => '
 Mes clients demandent d’avoir un dossier privé, en ligne, avec leurs reportages. J’ai aussi des dossiers pour les médias, dossiers qui contiennent des archives publiques mais dont les fichiers HD ne sont disponibles que des utilisateurs autorisés.
