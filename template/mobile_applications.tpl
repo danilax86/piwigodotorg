@@ -42,7 +42,7 @@
 
       <div class="row">
         <div class="col-md-6 text-center ">
-          <img src="{$PORG_ROOT_URL}images/mobile_applications/Group_78.png"/>
+          <img id="mobile_image_6" src="{$PORG_ROOT_URL}images/mobile_applications/Group_78.png"/>
         </div>
         <div class="col-md-6 col-xs-12 mobile_center_text_right">
           <h2>{'mobile_applications_albums_title'|translate}</h2>
