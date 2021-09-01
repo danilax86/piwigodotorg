@@ -33,6 +33,7 @@ $lang['Themes'] = 'Thèmes';
 $lang['Plugins'] = 'Plugins';
 $lang['Showcases'] = 'Exemples';
 $lang['Donate'] = 'Faire un don';
+$lang['Mobile applications'] = 'Applications mobiles';
 
 /* languages */
 $lang['language_af_ZA'] = 'Afrikaans';
