@@ -17,7 +17,7 @@
      <div class="row">
 
        <div class="card-columns" >
-         {foreach from=$testimonials key=testimonials_date item=testimonials_content}
+{foreach from=$testimonials key=testimonials_date item=testimonials_content}
 
          <div class="card pwg-testimonies-advice {$testimonials_content.user.type}">
            <div class="card-body">
@@ -26,16 +26,17 @@
                <p>{$testimonials_content.content}</p>
                <div class=" pwg-testimonies-user">
                  <div class="pwg-testimonies-name">
-                   <div class="pwg-testimonies-picture">
-                    {if $testimonials_content.user.picture != null}<img src="{$PORG_ROOT_URL}{$testimonials_content.user.picture}"/>{/if}
+  {if $testimonials_content.user.picture != null}
+                   <div class="pwg-testimonies-picture col-md-2">
+                    <img src="{$PORG_ROOT_URL}{$testimonials_content.user.picture}"/>
                    </div>
+  {/if}
                    <div >
                     <p>
-                        {if $testimonials_content.user.url != null}<a  href="{$testimonials_content.user.url}" target="blank"><span class="bold">{$testimonials_content.user.username}</span></a>
-                        {else}<span class="bold">{$testimonials_content.user.username}</span>{/if}
-                        <br>
-                        {if isset($testimonials_content.user.organisation)}{$testimonials_content.user.organisation}{else}{$testimonials_content.user.type}{/if}
-                        </p>
+  {if $testimonials_content.user.url != null}<a href="{$testimonials_content.user.url}" target="blank"><span class="bold">{$testimonials_content.user.username}</span><i class="icon-link-ext"></i></a>{else}<span class="bold">{$testimonials_content.user.username}</span>{/if}
+                      <br>
+  {if isset($testimonials_content.user.organisation)}{$testimonials_content.user.organisation}{else}{$testimonials_content.user.type}{/if}
+                    </p>
                     <p>{$testimonials_content.user.country}, {$testimonials_content.added_on}</p>
                    </div>
                  </div>
@@ -44,7 +45,7 @@
              <img class="pwg-testimonies-bottom-quote" src="{$PORG_ROOT_URL}images/testimonies/quotes.svg"/>
            </div>
          </div>
-         {/foreach}
+{/foreach}
        </div>
 
      </div>
