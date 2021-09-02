@@ -80,4 +80,20 @@ $(document).ready(function() {
         }
     } 
 
+    var incrementationNotRounded = testimonials.length/5;
+    var incrementationRoundedDown  = Math.floor(incrementationNotRounded );
+    var testimonialToAddPicture = 0
+    var personNumber = 1;
+
+    for(testimonialToAddPicture; testimonialToAddPicture<testimonials.length-1; testimonialToAddPicture = testimonialToAddPicture+incrementationRoundedDown){
+        var testimonialInnerHtml = $(testimonials[testimonialToAddPicture]).children().html();
+        
+        var testimonialInnerHtmlAfter = testimonialInnerHtml.concat('<div id="testimonies-person'+personNumber+'"><img src="'+topQuoteSrc+'person'+personNumber+'.svg"/></div>');
+        $(testimonials[testimonialToAddPicture]).children().html(testimonialInnerHtmlAfter);
+
+        personNumber++;
+    }
+
+
+
 });
