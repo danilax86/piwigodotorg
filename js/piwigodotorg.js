@@ -88,9 +88,11 @@ $(document).ready(function() {
     for(testimonialToAddPicture; testimonialToAddPicture<testimonials.length-1; testimonialToAddPicture = testimonialToAddPicture+incrementationRoundedDown){
         var testimonialInnerHtml = $(testimonials[testimonialToAddPicture]).children().html();
         
-        var testimonialInnerHtmlAfter = testimonialInnerHtml.concat('<div id="testimonies-person'+personNumber+'"><img src="'+topQuoteSrc+'person'+personNumber+'.svg"/></div>');
-        $(testimonials[testimonialToAddPicture]).children().html(testimonialInnerHtmlAfter);
-
+        if($(testimonials[testimonialToAddPicture]).find('.pwg-testimonies-picture').length == 0){
+            var testimonialInnerHtmlAfter = testimonialInnerHtml.concat('<div class="testimonies-illustration" id="testimonies-person'+personNumber+'"><img src="'+topQuoteSrc+'person'+personNumber+'.svg"/></div>');
+            $(testimonials[testimonialToAddPicture]).children().html(testimonialInnerHtmlAfter);
+        }
+        
         personNumber++;
     }
 
