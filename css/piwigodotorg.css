@@ -2589,6 +2589,10 @@ and (max-device-width : 480px) {
     width:100px;
 }
 
+.pwg-testimonies-advice  #testimonies-person6{
+    display:none;
+}
+
 .pwg-testimonies-advice #testimonies-person1 img{
     bottom: -33px;
     left: -25px;
