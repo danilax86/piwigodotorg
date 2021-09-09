@@ -4769,7 +4769,6 @@ position: absolute;
 
    .mobile_main_section img,
    #mobile_image_2,
-   #mobile_image_3,
    #mobile_image_5,
    #mobile_image_6{
        width:70%;
@@ -4875,20 +4874,51 @@ position: absolute;
 
     #androidModal a img,
     #iosModal a img{
-        width:50%;
+        width:40%;
     }
 
     .ios-only{
         margin:0 auto;
-        padding:5px 7px;
+        padding:5px 20px;
+        border-radius:15px;
+        background-color: #57b894;
+        font-size: 16px;
+        font-weight: 700;
+        color: white;
+    }
 
+    #mobile_image_1,
+    #mobile_image_4,
+    #mobile_image_3{
+        width:45%;
+    }
+ 
+    .mobile_applications button{
+     background-color: #ff7700;
+     padding: 15px 25px;
+     border: 1px solid #ff7700;
+     text-transform: uppercase;
+     color:white;
+     font-weight:600;
+    }
+ 
+    .mobile-applications-mobile-display{
+        display:none;
     }
   
-   @media (max-width: 991px){
+   @media (max-width: 992px){
       .mobile_applications h1{
         font-size: 30px;
         font-weight: 900;
         line-height: 40px;
+      }
+      .mobile_applications h2,
+      .mobile-second-section h2, 
+      .mobile-fourth-section h2{
+        font-size: 25px;
+      }
+      .mobile-applications h3{
+        margin: 15px 0;
       }
       .mobile_applications p {
           font-size: 16px;
@@ -4896,25 +4926,46 @@ position: absolute;
           text-align: left;
           padding: 0;
           line-height: normal;
+          
       }
       #mobile_applications-main-image{
           margin-top:50px;
       }
+      .mobile_center_text_right, 
+      .mobile_center_text_left{
+          position:relative;
+        top: unset;
+        transform: unset;
+      }
+      .mobile_applications .store-buttons {
+          text-align:center;
+          padding-top:40px;
+          padding-bottom:50px;
+      }
+      .mobile_applications .store-buttons img{
+          width:200px;
+      }
+      .mobile-applications-mobile-display{
+          display:block;
+      }
+      .mobile-applications-desktop-display{
+          display:none;
+      }
+      .mobile-second-section p,
+      .mobile-fourth-section p{
+        margin: 0;
+        padding: 0 20px;
+        padding-bottom: 80px;
+      }
    }
   
-   #mobile_image_1,
-   #mobile_image_4{
-       width:45%;
-   }
 
-   .mobile_applications button{
-    background-color: #ff7700;
-    padding: 15px 25px;
-    border: 1px solid #ff7700;
-    text-transform: uppercase;
-    color:white;
-    font-weight:600;
-   }
+
+@media (max-width:991px){
+
+
+
+}
    
 /********************
  * Piwigo Demo page *
