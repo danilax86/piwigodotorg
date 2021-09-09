@@ -4877,16 +4877,6 @@ position: absolute;
         width:40%;
     }
 
-    .ios-only{
-        margin:0 auto;
-        padding:5px 20px;
-        border-radius:15px;
-        background-color: #57b894;
-        font-size: 16px;
-        font-weight: 700;
-        color: white;
-    }
-
     #mobile_image_1,
     #mobile_image_4,
     #mobile_image_3{
@@ -4904,6 +4894,15 @@ position: absolute;
  
     .mobile-applications-mobile-display{
         display:none;
+    }
+
+    .ios-only span{
+        padding:5px 20px;
+        border-radius:15px;
+        background-color: #57b894;
+        font-size: 16px;
+        font-weight: 700;
+        color: white;
     }
   
    @media (max-width: 992px){
@@ -4957,15 +4956,19 @@ position: absolute;
         padding: 0 20px;
         padding-bottom: 80px;
       }
+
+      .mobile_first_section img,
+      .mobile_third_section img{
+         position: relative;
+         margin-top:20px;
+         margin-bottom:60px;
+       }
+       .ios-only{
+           margin:15px auto;
+       }
    }
   
 
-
-@media (max-width:991px){
-
-
-
-}
    
 /********************
  * Piwigo Demo page *

@@ -116,7 +116,7 @@
           <h2>{'mobile_applications_copy_move_title'|translate}</h2>
           <p>{'mobile_applications_copy_move_texte'|translate}</p>
           <div class="text-center">
-            <span class="ios-only">{'ios_only'|translate}</span>
+            <div class="ios-only"><span>{'ios_only'|translate}</span></div>
           </div>
         </div>
         <div class="col-md-6 col-xs-12 text-center mobile-applications-mobile-display">
@@ -129,7 +129,7 @@
           <h2>{'mobile_applications_share_title'|translate}</h2>
           <p>{'mobile_applications_share_texte'|translate}</p>
           <div class="text-center">
-            <span class="ios-only">{'ios_only'|translate}</span>
+            <div class="ios-only"><span>{'ios_only'|translate}</span></div>
           </div>
         </div>
         <div class="col-md-6 col-xs-12 text-center float-right">
@@ -141,8 +141,8 @@
   </section>
 
 <img src="{$PORG_ROOT_URL}images/features/feature-elements-part-two-top-wave.svg">
-    <section class="container-fluide mobile-fourth-section">
-      <div class="container">
+    <section class="container-fluide mobile_applications">
+      <div class="container mobile-fourth-section">
         <div class="row ">
           <h2>{'mobile_applications_security_title'|translate}</h2>
           <div class="col-md-4"col-xs-12 >
@@ -165,7 +165,8 @@
     </section>
 <img src="{$PORG_ROOT_URL}images/features/feature-elements-part-two-bottom-wave.svg">
 
-  <section class="container mobile_applications mobile_fifth_section">
+  <section class="container mobile_applications ">
+    <div class="mobile_fifth_section">
       <div class="row ">
         <h2>{'mobile_applications_download'|translate}</h2>
         <div class="col-md-6"col-xs-12 >
@@ -185,6 +186,7 @@
 {/if}  
         </div>
       </div>
+    </div>
   </section>
 
 
